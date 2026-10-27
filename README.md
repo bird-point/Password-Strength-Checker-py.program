@@ -136,11 +136,6 @@ The Python filename shown above is a suggested name. Adjust the structure to mat
 ## Contributing
 
 Contributions, suggestions, and bug reports are welcome. Fork the repository, create a branch for your changes, and submit a pull request.
-
-## License
-
-No license has been specified yet. If you intend to make this project open source, consider adding a suitable license, such as the MIT License, in a `LICENSE` file.
-
 ---
 
 **Author:** [bird-point](https://github.com/bird-point)
